@@ -15,7 +15,7 @@
 
 
 ### Algorithms Used:
-* Initially various classification algorithms were tested:
+* Initially various classification algorithms were tested.
 * Depending on performance, a couple of classifiers were selected for further optimization:
   * _**Random Forest Classifier**_
   * _**Gradient Boosting Classifier**_
