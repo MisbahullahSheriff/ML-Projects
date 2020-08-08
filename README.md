@@ -1,9 +1,5 @@
 # Machine-Learning Projects
 
-### Links:
-* [*My GitHub*](https://github.com/MisbahullahSheriff)
-* [*LinkedIN*](https://www.linkedin.com/in/mohammed-misbahullah-sheriff-b684091a1) <br /><br />
-
 ## About this Repository:
 
 * Each folder refers to a project I have completed.
