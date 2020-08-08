@@ -10,6 +10,8 @@
 * Implemented _**Pipelines**_ for a suite of regression models using _**Sci-Kit Learn**_.
 * Results of the final model were reported on the training data as well as the testing data.
 
+<br />
+
 ### Links:
 * [*Dataset*](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 * [*Web-App*](https://home-prices-predictor.herokuapp.com)
@@ -37,6 +39,8 @@
 * Atlast, the _**Voting Regressor**_ model was selected for deployment.
 * Model evaluation method: **cross-validation**.
 * Model evaluation criteria: **mean squared error**.
+
+<br />
 
 ### Libraries Used:
 * Pandas, Numpy, Sci-Kit Learn, Matplotlib, Seaborn
