@@ -5,7 +5,14 @@
 
 ### Links:
 * [*Dataset*](https://www.kaggle.com/johndasilva/diabetes)
-* [*Model Web-App Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment)
+* [*Web-App*](https://ml-diabetes-predictor.herokuapp.com)
+* [*Web-App Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment)
+
+**---------- IMPORTANT NOTE ----------**
+* If the web-app throws an **error** message as shown below, it's probably due to the monthly limitation provided by Heroku being exceeded.
+* Please try opening the web-app again at the start of the new month.
+<img src="readme_resources/heroku-app-error.png>
+
 
 ### Algorithms Used:
 * Initially various classification algorithms were tested:
