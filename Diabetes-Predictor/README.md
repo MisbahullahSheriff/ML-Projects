@@ -5,7 +5,7 @@
 
 ### Links:
 * [*Dataset*](https://www.kaggle.com/johndasilva/diabetes)
-* [*Model Deployment Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment)
+* [*Model Web-App Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment)
 
 ### Algorithms Used:
 * Initially various classification algorithms were tested:
