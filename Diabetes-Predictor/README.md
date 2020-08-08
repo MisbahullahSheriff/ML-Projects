@@ -1,12 +1,12 @@
 # Diabetes - Prediction
 
 * The aim of this project was to train a Machine Learning classifier to be able to accurately predict if an individual has diabetes or not.
-* The classifier was trained on a dataset comprising of 2000 observations with 9 variables (including the target).
+* The classifier was trained on a dataset comprising of 2000 observations with 9 variables (including the target). <br />
 
 ### Links:
 * [*Dataset*](https://www.kaggle.com/johndasilva/diabetes)
 * [*Web-App*](https://ml-diabetes-predictor.herokuapp.com)
-* [*Web-App Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment)
+* [*Web-App Repo*](https://github.com/MisbahullahSheriff/Diabetes-Predictor-Deployment) <br />
 
 **---------- IMPORTANT NOTE ----------**
 * If the web-app throws an **error** message as shown below, it's probably due to the monthly limitation provided by Heroku being exceeded.
