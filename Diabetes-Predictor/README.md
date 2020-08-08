@@ -11,7 +11,7 @@
 **---------- IMPORTANT NOTE ----------**
 * If the web-app throws an **error** message as shown below, it's probably due to the monthly limitation provided by Heroku being exceeded.
 * Please try opening the web-app again at the start of the new month.
-<img src="readme_resources/heroku-app-error.png>
+<img src="readme_resources/heroku-app-error.png">
 
 
 ### Algorithms Used:
